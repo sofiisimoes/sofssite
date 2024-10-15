@@ -16,3 +16,9 @@ header {
     text-transform: uppercase;
     
 }
+
+.nav-item:hover {
+    cursor: pointer;
+    background-color: #DDD6F3;
+
+}

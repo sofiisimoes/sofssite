@@ -20,5 +20,5 @@ header {
 .nav-item:hover {
     cursor: pointer;
     background-color: azure;
-
+    color: #DDD6F3;
 }

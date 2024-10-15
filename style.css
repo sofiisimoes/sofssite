@@ -9,8 +9,10 @@ header {
     justify-content: center;
 }
 
-ul {
+.nav-lista {
     display: flex;
     list-style: none;
+    gap: 28px;
+    text-transform: uppercase;
     
 }
